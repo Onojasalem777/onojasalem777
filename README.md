@@ -28,3 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsalem&show_icons=true&locale=en&layout=compact" alt="devsalem" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devsalem&show_icons=true&locale=en" alt="devsalem" /></p>
+<a href="https://app.daily.dev/Dev-Salem"><img src="https://api.daily.dev/devcards/6ee81ddae80343a5a9636102a47783ac.png?r=p4v" width="400" alt="Dev Salem's Dev Card"/></a>
