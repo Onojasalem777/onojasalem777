@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying
+I'm a web3 developer and currently studying.
 
 
 # 💻 Tech Stack:
